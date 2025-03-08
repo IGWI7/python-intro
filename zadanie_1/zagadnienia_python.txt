@@ -1,0 +1,11 @@
+1. Opis funkcji wbudowanej:
+zip(): Funkcja zip() łączy elementy z podanych iterowalnych (np. list, krotek) w krotki, tworząc iterator. Gdy iterowalne mają różną długość, zip() zatrzymuje się na najkrótszym z nich.
+https://docs.python.org/3/library/functions.html#zip
+
+2. Opis modułu z biblioteki standardowej:
+math: Moduł math zawiera funkcje matematyczne, takie jak trygonometryczne, logarytmiczne czy operacje na liczbach całkowitych i zmiennoprzecinkowych.
+https://docs.python.org/3/library/math.html
+
+3. Opis wyjątku:
+ZeroDivisionError: Wyjątek ZeroDivisionError jest podnoszony, gdy druga wartość w operacji dzielenia lub modulo wynosi zero.
+https://docs.python.org/3/library/exceptions.html#ZeroDivisionError
